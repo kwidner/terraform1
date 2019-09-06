@@ -1,0 +1,9 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore node_modules folder
+.terraform/
+
+# Ignore all state files
+*.tfstate
+*.tfstate.backup
